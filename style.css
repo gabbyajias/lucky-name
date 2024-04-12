@@ -1,8 +1,25 @@
-html {
-    height: 100%;
-    width: 100%;
-  }
-  body{
-    background-color: #f48a8a;
-  
+.body{
+  background-color: rgb(116, 173, 206);
+
+}
+
+.title{
+      font-family: "Luckiest Guy", cursive;
+      font-style: normal;     
+}
+
+.instructions{
+  color:rgb(169, 211, 235);
+  background-color: rgb(87, 91, 131);
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+.color {
+  color: rgb(39, 150, 255); 
+   font-family: "Tauri", sans-serif;
+font-size: larger;
   }
